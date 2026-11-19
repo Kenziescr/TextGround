@@ -1,0 +1,8 @@
+This is the final test before sharing this little project software.
+
+Undo - Redo
+Copy - Paste
+Find - Replace
+File Opening - Saving - Saving As
+New File
+About
